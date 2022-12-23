@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HALKTV.tr" status="timeout",HALK TV 
+https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358c769609&ce=3
+#EXTINF:-1 tvg-id="KANALD.tr" status="timeout",KANAL D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61&amp;ce=3
+#EXTINF:-1 tvg-id="ATV.tr" status="timeout",ATV
+https://trkvz.daioncdn.net/atv/atv_720p.m3u8?e=1671840891&st=PqS_bquwVmMgGK3uttj4Cg&sid=5056q8ugqdfl&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+#EXTINF:-1 tvg-id="TRTBELGESEL.tr" status="timeout",TRT BELGESEL
+https://1508980f6c544f2db07e6f823b6473c8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/995f558e-1b25-42e5-a9bf-73b774ee54a5/0.m3u8
+#EXTINF:-1 tvg-id="FOX.tr" status="timeout",FOX TV
+https://foxtv.daioncdn.net/foxtv/foxtv.m3u8?ce=3&app=24e7a2e2-9156-4c02-a4fb-2bc599ffaf77&st=2tSv3Z8HyQMUya5AxXpfbA&e=1671802106
+#EXTINF:-1 tvg-id="TV8.tr" status="timeout",TV8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+#EXTINF:-1 tvg-id="TRTKURDI.tr" status="timeout",TRT KURDI
+https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
+
+
+
+
+
+
+
