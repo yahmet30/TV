@@ -25,17 +25,17 @@ https://ntvdvr.blutv.com/blutv_ntv_dvr2/live_720p2000000kbps/index.m3u8
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg"status="timeout",BEYAZ TV
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="KANAL24.tr" status="timeout",KANAL 24
+#EXTINF:-1 tvg-id="KANAL24.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png?20191109190808" status="timeout",KANAL 24
 https://kanal24.blutv.com/blutv_kanal24_live/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="TGRTHABER.tr" status="timeout",TGRT HABER
+#EXTINF:-1 tvg-id="TGRTHABER.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" status="timeout",TGRT HABER
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="KARDELENTV.tr" status="timeout",KARDELEN TV
+#EXTINF:-1 tvg-id="KARDELENTV.tr" tvg-logo="http://wowturkey.com/tr730/4_659570.png" status="timeout",KARDELEN TV
 http://newcrm.streamencoding.com/hls/kardelen-live/index.m3u8
-#EXTINF:-1 tvg-id="CNNTURK.tr" status="timeout",CNN TÜRK
+#EXTINF:-1 tvg-id="CNNTURK.tr" tvg-logo="https://www.pikpng.com/pngl/b/232-2326453_cnn-turk-cnntrk-logo-png-cnn-trk-clipart.png" status="timeout",CNN TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
-#EXTINF:-1 tvg-id="FLASHTV.tr" status="timeout",FLASH TV
+#EXTINF:-1 tvg-id="FLASHTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/13/Flash_TV_logosu.png" status="timeout",FLASH TV
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
-#EXTINF:-1 tvg-id="UCANKUS.tr" status="timeout",UÇANKUŞ TV
+#EXTINF:-1 tvg-id="UCANKUS.tr" tvg-logo="https://cdn.ucankus.com/images/ucankus-v2-logo.png" status="timeout",UÇANKUŞ TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 
 
