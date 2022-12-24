@@ -29,7 +29,7 @@ https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 https://kanal24.blutv.com/blutv_kanal24_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="TGRTHABER.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" status="timeout",TGRT HABER
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="KARDELENTV.tr" tvg-logo="http://wowturkey.com/tr730/4_659570.png" status="timeout",KARDELEN TV
+#EXTINF:-1 tvg-id="KARDELENTV.tr" tvg-logo="https://www.bedavatv.com/wp-content/uploads/kardelen-tv-300x241.png" status="timeout",KARDELEN TV
 http://newcrm.streamencoding.com/hls/kardelen-live/index.m3u8
 #EXTINF:-1 tvg-id="CNNTURK.tr" tvg-logo="https://www.pikpng.com/pngl/b/232-2326453_cnn-turk-cnntrk-logo-png-cnn-trk-clipart.png" status="timeout",CNN TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
