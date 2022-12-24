@@ -37,7 +37,8 @@ https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 tvg-id="UCANKUS.tr" tvg-logo="https://cdn.ucankus.com/images/ucankus-v2-logo.png" status="timeout",UÇANKUŞ TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-
+#EXTINF:-1 tvg-id="NATGEOWILD.tr" status="timeout",NAT GEO WILD
+https://list.iptvcat.com/my_list/s/a95ee1845b3ba35e21c5b140319f6150.m3u8
 
 
 
