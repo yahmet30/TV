@@ -21,9 +21,9 @@ https://ciner.daioncdn.net/showtv/showtv_720p.m3u8?ex=1664766175&st=RBzhSuGauna0
 https://startvdvr.blutv.com/blutv_startv_dvr2/live_480p1000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" status="timeout",NTV
 https://ntvdvr.blutv.com/blutv_ntv_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="KANAL7.tr" status="timeout",KANAL 7
+#EXTINF:-1 tvg-id="KANAL7.tr" tvg-logo="https://e7.pngegg.com/pngimages/888/174/png-clipart-kanal-7-television-turksat-4a-drop-off-canal-kanal-2-television-text.png" status="timeout",KANAL 7
 https://kanal7dvr.blutv.com/blutv_kanal7_dvr2/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 tvg-id="BEYAZTV.tr" status="timeout",BEYAZ TV
+#EXTINF:-1 tvg-id="BEYAZTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8d/Beyaz_TV_logo.jpeg"status="timeout",BEYAZ TV
 https://beyaztvdvr.blutv.com/blutv_beyaztv_dvr2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="KANAL24.tr" status="timeout",KANAL 24
 https://kanal24.blutv.com/blutv_kanal24_live/live_720p2000000kbps/index.m3u8
