@@ -38,7 +38,7 @@ https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
 #EXTINF:-1 tvg-id="UCANKUS.tr" tvg-logo="https://cdn.ucankus.com/images/ucankus-v2-logo.png" status="timeout",UÇANKUŞ TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1 tvg-id="NATGEOWILD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" status="timeout",NAT GEO WILD
-http://listaiptv.brcs.ml:8080/SD_NAT_GEO_WILD/video.m3u8
+http://162.210.195.121:8080/NationalGeoAD/tracks-v1a1/mono.m3u8
 
 
 
