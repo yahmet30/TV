@@ -6,7 +6,7 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-id="KANALD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a4/Kanal_D_logo.png" status="timeout",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61&amp;ce=3
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" status="timeout",ATV
-https://trkvz-live.daioncdn.net/atv/atv.m3u8
+https://trkvz.daioncdn.net/atv/atv_720p.m3u8
 #EXTINF:-1 tvg-id="TRTBELGESEL.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" status="timeout",TRT BELGESEL
 https://1508980f6c544f2db07e6f823b6473c8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/995f558e-1b25-42e5-a9bf-73b774ee54a5/0.m3u8
 #EXTINF:-1 tvg-id="FOX.tr" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png" status="timeout",FOX TV
