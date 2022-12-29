@@ -6,7 +6,7 @@ https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-id="KANALD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a4/Kanal_D_logo.png" status="timeout",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61&amp;ce=3
 #EXTINF:0 tvg-country="TR" tvg-logo="http://worldiptv.xyz/chlogos/atvavrupa.tr.png" group-title="Undefined",Atv Avrupa
-https://list.iptvcat.com/my_list/s/6acc8e07c4368c544aebbdff760bd265.m3u8
+https://live.cdn-canlitv.com/atvavrupa3.m3u8?anahtar=vK4fcePoE-fbijHEfALazQ&sure=1672341069&ip=159.146.73.112
 #EXTINF:-1 tvg-id="TRTBELGESEL.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" status="timeout",TRT BELGESEL
 https://1508980f6c544f2db07e6f823b6473c8.mediatailor.eu-west-1.amazonaws.com/v1/manifest/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-Belgesel/995f558e-1b25-42e5-a9bf-73b774ee54a5/0.m3u8
 #EXTINF:-1 tvg-id="FOX.tr" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png" status="timeout",FOX TV
