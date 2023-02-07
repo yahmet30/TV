@@ -5,7 +5,7 @@ https://halktv.daioncdn.net/halktv/halktv.m3u8?app=c86957d3-74a7-44da-9ad2-dc358
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
 #EXTINF:-1 tvg-id="KANALD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a4/Kanal_D_logo.png" status="timeout",KANAL D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=da2109ea-5dfe-4107-89ab-23593336ed61&amp;ce=3
-#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://tr.wikipedia.org/wiki/360_(televizyon_kanal%C4%B1)#/media/Dosya:360_tv.png" status="timeout",360 TV
+#EXTINF:-1 tvg-id="360.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/360_tv.png" status="timeout",360 TV
 https://360tv.blutv.com/blutv_360tv_live/live.m3u8
 #EXTINF:-1 tvg-id="TRTBELGESEL.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/TRT_Belgesel_kurumsal_logo_%282015-2019%29.png" status="timeout",TRT BELGESEL
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
