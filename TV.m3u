@@ -34,6 +34,8 @@ https://live.cdn-canlitv.com/kardelentv.m3u8?anahtar=CNu7Pi-z97as81WJsO5gKQ&sure
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
 #EXTINF:-1 tvg-id="FLASHTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/13/Flash_TV_logosu.png" status="timeout",FLASH TV
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" status="timeout",ATV
+https://cdn11.alfastreamtv.com/atv.m3u8?tkn=6bjFM8MYnfh-UyTAVjnysQ&tms=1680538307&hst=tr.canlitv.city&ip=78.190.152.27
 
 
 
