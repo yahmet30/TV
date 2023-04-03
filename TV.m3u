@@ -30,8 +30,7 @@ https://kanal24.blutv.com/blutv_kanal24_live/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="TGRTHABER.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/TGRT_Haber_logosu.png" status="timeout",TGRT HABER
 https://mn-nl.mncdn.com/blutv_tgrthaber2/live_720p2000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="KARDELENTV.tr" tvg-logo="https://www.bedavatv.com/wp-content/uploads/kardelen-tv-300x241.png" status="timeout",KARDELEN TV
-http://newcrm.streamencoding.com/hls/kardelen-live/index.m3u8
-#EXTINF:-1 tvg-id="CNNTURK.tr" tvg-logo="https://www.pikpng.com/pngl/b/232-2326453_cnn-turk-cnntrk-logo-png-cnn-trk-clipart.png" status="timeout",CNN TÜRK
+https://live.cdn-canlitv.com/kardelentv.m3u8?anahtar=CNu7Pi-z97as81WJsO5gKQ&sure=1680545072&ip=78.190.152.27#EXTINF:-1 tvg-id="CNNTURK.tr" tvg-logo="https://www.pikpng.com/pngl/b/232-2326453_cnn-turk-cnntrk-logo-png-cnn-trk-clipart.png" status="timeout",CNN TÜRK
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/track_3_750/playlist.m3u8
 #EXTINF:-1 tvg-id="FLASHTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/1/13/Flash_TV_logosu.png" status="timeout",FLASH TV
 https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
