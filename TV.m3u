@@ -18,8 +18,7 @@ https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&c
 #EXTINF:-1 tvg-id="TRTKURDI.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/TRT_Kurd%C3%AE_logosu.png" status="timeout",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="SHOWTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" status="timeout",SHOW TV
-https://showtv.blutv.com/blutv_showtv_live/live.m3u8
-#EXTINF:-1 tvg-id="STARTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Star_TV_logo_%282012%29.png" status="timeout",STAR TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8#EXTINF:-1 tvg-id="STARTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Star_TV_logo_%282012%29.png" status="timeout",STAR TV
 https://startvdvr.blutv.com/blutv_startv_dvr2/live_480p1000000kbps/index.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" status="timeout",NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8?token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&sid=5knowzqdoyr7&app=c68bddbe-3dbf-49f7-892a-93de5ae37f1f&ce=3
