@@ -14,7 +14,7 @@ https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="FOX.tr" tvg-logo="https://www.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png" status="timeout",FOX TV
 https://nowtv-live-ad.ercdn.net/nowtv/nowtv_480p.m3u8?e=1720000209&st=xHYLvED2xnB4adgwH3aDXg
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" status="timeout",TV8
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=6fezxqy79te2&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+https://tv8.daioncdn.net/tv8/tv8_720p.m3u8?&sid=6jdo0d4k7qgt&app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
 #EXTINF:-1 tvg-id="TRTKURDI.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/TRT_Kurd%C3%AE_logosu.png" status="timeout",TRT KURDI
 https://tv-trtkurdi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="SHOWTV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Logo_of_Show_TV.png" status="timeout",SHOW TV
